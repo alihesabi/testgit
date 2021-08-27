@@ -1,3 +1,4 @@
 hello babay it is the first global file you have created!!
 ok here is some changes lets look at it and take some decisions ha?
 ok where is all the changes?
+now le's try that when git hub is not on the screen
